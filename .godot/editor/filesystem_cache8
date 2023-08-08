@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1691525298
+::res://::1691531961
 icon.svg::CompressedTexture2D::547009906565236173::1691509835::1691509887::1::::<><>::
 ::res://Character/::1691523252
 HEROS8bit_Adventurer Attack D.png::CompressedTexture2D::6030337981338916464::1691523214::1691523252::1::::<><>::
@@ -21,8 +21,9 @@ HEROS8bit_Adventurer Push U.png::CompressedTexture2D::2844250541102718786::16915
 HEROS8bit_Adventurer Walk D.png::CompressedTexture2D::6689273458401718345::1691523214::1691523252::1::::<><>::
 HEROS8bit_Adventurer Walk R.png::CompressedTexture2D::8593996318890118310::1691523214::1691523252::1::::<><>::
 HEROS8bit_Adventurer Walk U.png::CompressedTexture2D::8334730797526838662::1691523214::1691523252::1::::<><>::
-::res://scene1/::1691525029
-node_2d.tscn::PackedScene::5507804155391260228::1691525029::0::1::::<><>::uid://cr6e1ybwjw8qm::::res://Character/HEROS8bit_Adventurer Attack D.png
-::res://Scripts/::1691524581
+::res://scene1/::1691531937
+node_2d.tscn::PackedScene::5507804155391260228::1691531937::0::1::::<><>::res://scene1/Player.gd<>uid://cr6e1ybwjw8qm::::res://Character/HEROS8bit_Adventurer Attack D.png<>uid://b7ls4m5vhnblg::::res://Character/HEROS8bit_Adventurer Idle D.png<>uid://cvk5lauurcq31::::res://Tileset/PixelPackTOPDOWN8BIT.png
+Player.gd::GDScript::-1::1691526629::0::1::::<>CharacterBody2D<>::
+::res://Scripts/::1691525773
 ::res://Tileset/::1691523214
 PixelPackTOPDOWN8BIT.png::CompressedTexture2D::6269292046669040306::1691523214::1691523214::1::::<><>::
