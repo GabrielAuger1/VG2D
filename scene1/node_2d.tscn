@@ -1,3 +1,28 @@
-[gd_scene format=3 uid="uid://ckqay2twsrsgi"]
+[gd_scene load_steps=3 format=3 uid="uid://ckqay2twsrsgi"]
+
+[ext_resource type="Texture2D" uid="uid://cr6e1ybwjw8qm" path="res://Character/HEROS8bit_Adventurer Attack D.png" id="1_u2kxc"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_cx55q"]
+animations = [{
+"frames": [],
+"loop": true,
+"name": &"default",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_u2kxc")
+}],
+"loop": true,
+"name": &"new_animation_1",
+"speed": 5.0
+}]
 
 [node name="Node2D" type="Node2D"]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+texture_filter = 1
+texture_repeat = 1
+position = Vector2(141, 57)
+sprite_frames = SubResource("SpriteFrames_cx55q")
+animation = &"new_animation_1"
