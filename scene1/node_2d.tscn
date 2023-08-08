@@ -1,15 +1,13 @@
-[gd_scene load_steps=9 format=3 uid="uid://ckqay2twsrsgi"]
+[gd_scene load_steps=7 format=3 uid="uid://ckqay2twsrsgi"]
 
 [ext_resource type="Script" path="res://scene1/Player.gd" id="1_4cqn3"]
-[ext_resource type="Texture2D" uid="uid://cr6e1ybwjw8qm" path="res://Character/HEROS8bit_Adventurer Attack D.png" id="1_u2kxc"]
-[ext_resource type="Texture2D" uid="uid://b7ls4m5vhnblg" path="res://Character/HEROS8bit_Adventurer Idle D.png" id="2_wwp1x"]
 [ext_resource type="Texture2D" uid="uid://cvk5lauurcq31" path="res://Tileset/PixelPackTOPDOWN8BIT.png" id="4_tqp3f"]
 
 [sub_resource type="SpriteFrames" id="SpriteFrames_cx55q"]
 animations = [{
 "frames": [{
 "duration": 1.0,
-"texture": ExtResource("2_wwp1x")
+"texture": null
 }],
 "loop": true,
 "name": &"Idle_D",
@@ -22,7 +20,7 @@ animations = [{
 }, {
 "frames": [{
 "duration": 1.0,
-"texture": ExtResource("1_u2kxc")
+"texture": null
 }],
 "loop": true,
 "name": &"new_animation_1",
