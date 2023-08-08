@@ -1,27 +1,27 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1691522788
-icon.svg::CompressedTexture2D::547009906565236173::1691521439::1691521496::1::::<><>::
-::res://Character/::1691523123
-HEROS8bit_Adventurer Attack D.png::CompressedTexture2D::6030337981338916464::1691522947::1691522947::1::::<><>::
-HEROS8bit_Adventurer Attack R.png::CompressedTexture2D::5464107866322528490::1691523123::1691523124::1::::<><>::
-HEROS8bit_Adventurer Attack U.png::CompressedTexture2D::6071153206466766951::1691523123::1691523124::1::::<><>::
-HEROS8bit_Adventurer Death.png::CompressedTexture2D::2720433203529196499::1691523123::1691523124::1::::<><>::
-HEROS8bit_Adventurer Hurt D.png::CompressedTexture2D::1923394639733839311::1691523123::1691523124::1::::<><>::
-HEROS8bit_Adventurer Hurt R.png::CompressedTexture2D::4513276840890415219::1691523123::1691523124::1::::<><>::
-HEROS8bit_Adventurer Hurt U.png::CompressedTexture2D::5524575572522259780::1691523123::1691523124::1::::<><>::
-HEROS8bit_Adventurer Idle D.png::CompressedTexture2D::4656317206886178168::1691523123::1691523124::1::::<><>::
-HEROS8bit_Adventurer Idle R.png::CompressedTexture2D::9060190039435634877::1691523123::1691523124::1::::<><>::
-HEROS8bit_Adventurer Idle U.png::CompressedTexture2D::7456313638919678025::1691523123::1691523124::1::::<><>::
-HEROS8bit_Adventurer JumpRoll D.png::CompressedTexture2D::2775823285858958650::1691523123::1691523123::1::::<><>::
-HEROS8bit_Adventurer JumpRoll R.png::CompressedTexture2D::662236373714469138::1691523123::1691523123::1::::<><>::
-HEROS8bit_Adventurer JumpRoll U.png::CompressedTexture2D::7818116854424069258::1691523123::1691523123::1::::<><>::
-HEROS8bit_Adventurer Push D.png::CompressedTexture2D::6043130716140294002::1691523123::1691523123::1::::<><>::
-HEROS8bit_Adventurer Push R.png::CompressedTexture2D::6425561577733567350::1691523123::1691523123::1::::<><>::
-HEROS8bit_Adventurer Push U.png::CompressedTexture2D::2844250541102718786::1691523123::1691523123::1::::<><>::
-HEROS8bit_Adventurer Walk D.png::CompressedTexture2D::6689273458401718345::1691523123::1691523123::1::::<><>::
-HEROS8bit_Adventurer Walk R.png::CompressedTexture2D::8593996318890118310::1691523123::1691523123::1::::<><>::
-HEROS8bit_Adventurer Walk U.png::CompressedTexture2D::8334730797526838662::1691523123::1691523123::1::::<><>::
-::res://scene1/::1691521505
-node_2d.tscn::PackedScene::5507804155391260228::1691521505::0::1::::<><>::
-::res://Tileset/::1691522353
-PixelPackTOPDOWN8BIT.png::CompressedTexture2D::6269292046669040306::1691522255::1691522353::1::::<><>::
+::res://::1691524494
+icon.svg::CompressedTexture2D::547009906565236173::1691509835::1691509887::1::::<><>::
+::res://Character/::1691523252
+HEROS8bit_Adventurer Attack D.png::CompressedTexture2D::6030337981338916464::1691523214::1691523252::1::::<><>::
+HEROS8bit_Adventurer Attack R.png::CompressedTexture2D::5464107866322528490::1691523214::1691523252::1::::<><>::
+HEROS8bit_Adventurer Attack U.png::CompressedTexture2D::6071153206466766951::1691523214::1691523252::1::::<><>::
+HEROS8bit_Adventurer Death.png::CompressedTexture2D::2720433203529196499::1691523214::1691523252::1::::<><>::
+HEROS8bit_Adventurer Hurt D.png::CompressedTexture2D::1923394639733839311::1691523214::1691523252::1::::<><>::
+HEROS8bit_Adventurer Hurt R.png::CompressedTexture2D::4513276840890415219::1691523214::1691523252::1::::<><>::
+HEROS8bit_Adventurer Hurt U.png::CompressedTexture2D::5524575572522259780::1691523214::1691523252::1::::<><>::
+HEROS8bit_Adventurer Idle D.png::CompressedTexture2D::4656317206886178168::1691523214::1691523252::1::::<><>::
+HEROS8bit_Adventurer Idle R.png::CompressedTexture2D::9060190039435634877::1691523214::1691523252::1::::<><>::
+HEROS8bit_Adventurer Idle U.png::CompressedTexture2D::7456313638919678025::1691523214::1691523252::1::::<><>::
+HEROS8bit_Adventurer JumpRoll D.png::CompressedTexture2D::2775823285858958650::1691523214::1691523252::1::::<><>::
+HEROS8bit_Adventurer JumpRoll R.png::CompressedTexture2D::662236373714469138::1691523214::1691523252::1::::<><>::
+HEROS8bit_Adventurer JumpRoll U.png::CompressedTexture2D::7818116854424069258::1691523214::1691523252::1::::<><>::
+HEROS8bit_Adventurer Push D.png::CompressedTexture2D::6043130716140294002::1691523214::1691523252::1::::<><>::
+HEROS8bit_Adventurer Push R.png::CompressedTexture2D::6425561577733567350::1691523214::1691523252::1::::<><>::
+HEROS8bit_Adventurer Push U.png::CompressedTexture2D::2844250541102718786::1691523214::1691523252::1::::<><>::
+HEROS8bit_Adventurer Walk D.png::CompressedTexture2D::6689273458401718345::1691523214::1691523252::1::::<><>::
+HEROS8bit_Adventurer Walk R.png::CompressedTexture2D::8593996318890118310::1691523214::1691523252::1::::<><>::
+HEROS8bit_Adventurer Walk U.png::CompressedTexture2D::8334730797526838662::1691523214::1691523252::1::::<><>::
+::res://scene1/::1691524448
+node_2d.tscn::PackedScene::5507804155391260228::1691524448::0::1::::<><>::
+::res://Tileset/::1691523214
+PixelPackTOPDOWN8BIT.png::CompressedTexture2D::6269292046669040306::1691523214::1691523214::1::::<><>::
